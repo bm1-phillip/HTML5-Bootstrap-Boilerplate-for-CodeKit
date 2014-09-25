@@ -4,7 +4,6 @@ This is a starter template for new webprojects written with [CodeKit].
 
 [LIVE]
 ------
-______
 
 ## Some facts
 
@@ -26,7 +25,7 @@ Do of the following:
 
 coming soon
 
-_________
+
 ## Author
 
 **Phillip Baumgärtner**
