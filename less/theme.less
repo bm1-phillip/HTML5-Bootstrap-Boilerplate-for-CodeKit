@@ -1,0 +1,92 @@
+html,
+body,
+body > #salon {
+	height: 100%;
+}
+
+section {
+	margin: 0 auto; 
+    width: 100%;
+    position: relative; 
+    box-shadow: 0 0 50px rgba(0,0,0,0.8);
+    padding: 100px 0;
+
+    &#salon { 
+		background: url('../img/P1050400.jpg') 50% 0 fixed;
+		background-size: cover;
+	}
+
+	&#haarmacher { 
+		background: url('../img/greyfloral.png') 50% 0 fixed;
+		text-align: justify;
+	}
+
+	&#bilder {
+		background: url('../img/mooning.png') 50% 0 fixed;
+	}
+
+	&#team { 
+		background: url('../img/skulls.png') 50% 0 fixed;
+	}
+
+	&#preise { 
+		background: url('../img/arab_tile.png') 50% 0 fixed;
+	}
+
+	&#kontakt { 
+		background: url('../img/school.png') 50% 0 fixed;
+	}
+
+	&#footer { 
+		background: url('../img/tweed.png') 50% 0 fixed;
+		height: auto;
+		min-height: 0;
+		padding: 20px 0;
+		color: #fff;
+	}
+}
+
+
+.navbar-brand {
+	text-transform: uppercase;
+}
+
+
+.logo {
+	padding-top: 20%;
+
+	h1 {
+		display: block;
+		text-align: center;
+		text-transform: uppercase;
+		color: #fff;
+		text-shadow: 0 0 10px @gray-darker;
+		font-weight: 100;
+
+		small {
+			text-transform: none;
+			display: block;
+			color: #fff;
+			font-weight: 100;
+		}
+	}
+}
+
+/* Kleine Geräte (Tablets, 768px und breiter) */
+@media (min-width: @screen-sm-min) {
+	.logo h1 small {
+		margin-left: 310px;
+	}
+}
+
+/* Mittlere Geräte (Desktop-PCs, 992px und breiter) */
+@media (min-width: @screen-md-min) {
+	.logo h1 small {
+		margin-left: 400px;
+	}
+}
+
+
+.addthis_sharing_toolbox {
+	padding-top: 8px;
+}

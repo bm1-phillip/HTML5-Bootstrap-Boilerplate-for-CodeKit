@@ -1,88 +1,395 @@
 <!DOCTYPE html>
-<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
-<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
-<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>Bootstrap Starter Template for CodeKit</title>
-        <meta name="description" content="">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link href="css/app.css" rel="stylesheet">
-        <style>
-            body {
-                padding-top: 50px;
-                padding-bottom: 20px;
-            }
-        </style>
-        <script src="js/head.min.js"></script>
-    </head>
-    <body>
-        <!--[if lt IE 7]>
-            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
-        <![endif]-->
-    <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
-      <div class="container">
-        <div class="navbar-header">
-          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
-          <a class="navbar-brand" href="#">Project name</a>
+<!--[if lt IE 7]>     <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>        <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>        <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js">
+<!--<![endif]-->
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Schnipp Schnapp die Haarmacher Bayreuth</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="css/app.css" rel="stylesheet">
+    <link href='http://fonts.googleapis.com/css?family=Josefin+Sans:100,400,600' rel='stylesheet' type='text/css'>
+    <script src="js/head.min.js"></script>
+</head>
+
+<body data-spy="scroll">
+    <!-- Google Tag Manager -->
+    <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TBBFF9"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-TBBFF9');</script>
+    <!-- End Google Tag Manager -->
+
+    <!--[if lt IE 7]>
+    <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+    <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+        <div class="container">
+            <!-- Titel und Schalter werden für eine bessere mobile Ansicht zusammengefasst -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Navigation ein-/ausblenden</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="#">Schnipp Schnapp</a>
+            </div>
+
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav">
+                    <li class="active"><a href="#salon"><span class="glyphicon glyphicon-home"></span> die Haarmacher</a></li>
+                    <li><a href="#haarmacher" data-toggle="tooltip" data-placement="bottom" title="Über unseren Salon"><span class="glyphicon glyphicon-heart-empty"></span> Salon</a></li>
+                    <li><a href="#team" data-toggle="tooltip" data-placement="bottom" title="Inhaber und Mitarbeiter"><span class="glyphicon glyphicon-user"></span> Team</a></li>
+                    <li><a href="#preise" data-toggle="tooltip" data-placement="bottom" title="Damen, Herren, Kinder"><span class="glyphicon glyphicon-euro"></span> Preise</a></li>
+                    <li><a href="#kontakt" data-toggle="tooltip" data-placement="bottom" title="Kontakt, Öffnungszeiten, Anfahrt"><span class="glyphicon glyphicon-earphone"></span> 0921 33265</a></li>
+                </ul>
+
+                <ul class="nav navbar-nav navbar-right">
+                    <div class="addthis_sharing_toolbox"></div>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
         </div>
-        <div class="navbar-collapse collapse">
-          <form class="navbar-form navbar-right" role="form">
-            <div class="form-group">
-              <input type="text" placeholder="Email" class="form-control">
-            </div>
-            <div class="form-group">
-              <input type="password" placeholder="Password" class="form-control">
-            </div>
-            <button type="submit" class="btn btn-success">Sign in</button>
-          </form>
-        </div><!--/.navbar-collapse -->
-      </div>
-    </div>
+        <!-- /.container -->
+    </nav>
 
     <!-- Main jumbotron for a primary marketing message or call to action -->
-    <div class="jumbotron">
-      <div class="container">
-        <h1>Hello, world!</h1>
-        <p>This is a template for a simple marketing or informational website. It includes a large callout called a jumbotron and three supporting pieces of content. Use it as a starting point to create something more unique.</p>
-        <p><a class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a></p>
-      </div>
-    </div>
-
-    <div class="container">
-      <!-- Example row of columns -->
-      <div class="row">
-        <div class="col-md-4">
-          <h2>Heading</h2>
-          <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-          <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+    <section id="salon" data-speed="6" data-type="background">
+        <div class="container">
+            <div class="logo">
+                <h1>Schnipp Schnapp
+                    <small>die Haarmacher</small>
+                </h1>
+            </div>
         </div>
-        <div class="col-md-4">
-          <h2>Heading</h2>
-          <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-          <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
-       </div>
-        <div class="col-md-4">
-          <h2>Heading</h2>
-          <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-          <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+    </section>
+
+    <section id="haarmacher" data-speed="6" data-type="background">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8 col-md-offset-2">
+                    <h2>Salon</h2>
+                    <p class="fitText">Ihr Haar liegt uns am Herzen. Lassen Sie sich von uns verwöhnen und tauchen Sie mit uns ein, in die wunderbare Welt des Salon Schnipp Schnapp. Wir beraten Sie typgerecht, kreativ und haben immer ein offenes Ohr.</p>
+                </div>
+            </div>
         </div>
-      </div>
+    </section>
 
-      <hr>
+    <section id="bilder" data-speed="9" data-type="background">
+    	<div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <p><img src="img/P1050400.jpg" alt="" class="img-thumbnail"></p>
+                </div>
+                <div class="col-md-6">
+                    <p><img src="img/P1050394.jpg" alt="" class="img-thumbnail"></p>
+                </div>
+                <div class="col-md-6">
+                    <p><img src="img/P1050396.jpg" alt="" class="img-thumbnail"></p>
+                </div>
+                <div class="col-md-6">
+                    <p><img src="img/haarwaesche_2.jpg" alt="Haarwäsche" class="img-thumbnail"></p>
+                </div>
+            </div>
+        </div>
+    </section>
 
-      <footer>
-        <p>&copy; Company 2014</p>
-      </footer>
-    </div> <!-- /container -->
+    <section id="team" data-speed="6" data-type="background">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <h2>Team</h2>
+                </div>
+            </div>
+            <div class="row">
+                
+                <div class="col-xs-12 col-sm-6 col-md-4">
+                    <div class="thumbnail">
+                        <img src="img/lisa_boehner.jpg" alt="Lisa Böhner">
+                        <div class="caption">
+                            <h3>Lisa Böhner</h3>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-xs-12 col-sm-6 col-md-4">
+                    <div class="thumbnail">
+                        <div class="caption">
+                            <h3>Uwe Johannes</h3>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-xs-12 col-sm-6 col-md-4">
+                    <div class="thumbnail">
+                        <div class="caption">
+                            <h3>Katrin Birner</h3>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-xs-12 col-sm-6 col-md-4">
+                    <div class="thumbnail">
+                        <div class="caption">
+                            <h3>Laila Bitterman</h3>
+                        </div>
+                    </div>
+                </div>
+
+                
+
+                <div class="col-xs-12 col-sm-6 col-md-4">
+                    <div class="thumbnail">
+                        <div class="caption">
+                            <h3>Jörg Blindzellner</h3>
+                        </div>
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+    </section>
+
+    <section id="preise" data-speed="6" data-type="background">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <h2>Preise</h2>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-xs-12 col-sm-6 col-md-4">
+
+                    <div class="thumbnail">
+                        <div class="caption">
+                            <h3>Damen</h3>
+                            <table class="table table-striped">
+                                <tr>
+                                    <td>Damen waschen + föhnen</td>
+                                    <td align="right">15,00&nbsp;&euro;</td>
+                                </tr>
+                                <tr>
+                                    <td>Damen waschen, schneiden, föhnen</td>
+                                    <td align="right">25,00&nbsp;&euro;</td>
+                                </tr>
+                                <tr>
+                                    <td>Damen waschen + legen</td>
+                                    <td align="right">15,00&nbsp;&euro;</td>
+                                </tr>
+                                <tr>
+                                    <td>Damen trocken schneiden</td>
+                                    <td align="right">16,00&nbsp;&euro;</td>
+                                </tr>
+                                <tr>
+                                    <td>Damen trocken schneiden lang</td>
+                                    <td align="right">18,00&nbsp;&euro;</td>
+                                </tr>
+                                <tr>
+                                    <td>Damen Steckfrisur</td>
+                                    <td align="right">30,00&nbsp;&euro;</td>
+                                </tr>
+                                <tr>
+                                    <td>Damen Steckfrisur, Hochzeit</td>
+                                    <td align="right">40,00&nbsp;&euro;</td>
+                                </tr>
+                            </table>
+                        </div>
+                    </div>
+
+                    <div class="thumbnail">
+                        <div class="caption">
+                            <h3>Dauerwelle</h3>
+                            <table class="table table-striped">
+                                <tr>
+                                    <td>Dauerwelle komplett</td>
+                                    <td align="right">29,00&nbsp;&euro;</td>
+                                </tr>
+                                <tr>
+                                    <td>Dauerwelle Oberkopf</td>
+                                    <td align="right">26,00&nbsp;&euro;</td>
+                                </tr>
+                            </TABLE>
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="col-xs-12 col-sm-6 col-md-4">
+
+                    <div class="thumbnail">
+                        <div class="caption">
+                            <h3>Colorieren</h3>
+                            <table class="table table-striped">
+                                <tr>
+                                    <td>Tönung kurze Haare</td>
+                                    <td align="right">16,00&nbsp;&euro;</td>
+                                </tr>
+                                <tr>
+                                    <td>Tönung lange Haare</td>
+                                    <td align="right">18,00&nbsp;&euro;</td>
+                                </tr>
+                                <tr>
+                                    <td>Farbe, Ansatz</td>
+                                    <td align="right">20,00&nbsp;&euro;</td>
+                                </tr>
+                                <tr>
+                                    <td>Farbe, komplett</td>
+                                    <td align="right">23,00&nbsp;&euro;</td>
+                                </tr>
+                                <tr>
+                                    <td>Haubensträhnen</td>
+                                    <td align="right">16,00&nbsp;&euro;</td>
+                                </tr>
+                                <tr>
+                                    <td>Foliensträhnen Oberkopf</td>
+                                    <td align="right">20,00&nbsp;&euro;</td>
+                                </tr>
+                                <tr>
+                                    <td>Foliensträhnen kurze Haare</td>
+                                    <td align="right">18,00&nbsp;&euro;</td>
+                                </tr>
+                                <tr>
+                                    <td>Foliensträhnen lange Haare ca.</td>
+                                    <td align="right">20,00 – 30,00&euro;</td>
+                                </tr>
+                                <tr>
+                                    <td>Kellensträhnen</td>
+                                    <td align="right">16,00&nbsp;&euro;</td>
+                                </tr>
+                                <tr>
+                                    <td>2farbige Strähnen</td>
+                                    <td align="right">32,00&nbsp;&euro;</td>
+                                </tr>
+                            </table>
+                        </div>
+                    </div>
+
+                    <div class="thumbnail">
+                        <div class="caption">
+                            <h3>Augen</h3>
+                            <table class="table table-striped">
+                                <tr>
+                                    <td>Augenbrauen zupfen</td>
+                                    <td align="right">5,00&nbsp;&euro;</td>
+                                </tr>
+                                <tr>
+                                    <td>Augenbrauen färben</td>
+                                    <td align="right">5,50&nbsp;&euro;</td>
+                                </tr>
+                                <tr>
+                                    <td>Wimpern färben</td>
+                                    <td align="right">6,00&nbsp;&euro;</td>
+                                </tr>
+                            </table>
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="col-xs-12 col-sm-6 col-md-4">
+
+                    <div class="thumbnail">
+                        <div class="caption">
+                            <h3>Herren</h3>
+                            <table class="table table-striped">
+                                <tr>
+                                    <td>Herrenhaarschnitt trocken</td>
+                                    <td align="right">12,00&nbsp;&euro;</td>
+                                </tr>
+                                <tr>
+                                    <td>Herrenhaarschnitt m. Waschen</td>
+                                    <td align="right">15,00&nbsp;&euro;</td>
+                                </tr>
+                            </table>
+                        </div>
+                    </div>
+
+                    <div class="thumbnail">
+                        <div class="caption">
+                            <h3>Kinder</h3>
+                            <table class="table table-striped">
+                                <tr>
+                                    <td>Kids</td>
+                                    <td align="right">10,00&nbsp;&euro;</td>
+                                </tr>
+                                <tr>
+                                    <td>Kids lange Haare</td>
+                                    <td align="right">16,00&nbsp;&euro;</td>
+                                </tr>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+    </section>
+
+    <section id="kontakt" data-speed="2" data-type="background">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <h2>Kontakt <small>Impressum</small></h2>
+                </div>
+            </div>
+        </div>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5135.709143962458!2d11.53035000000001!3d49.93906999999986!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a197ff62e6f18d%3A0x2ecae794a2616300!2sMeyernberger+Stra%C3%9Fe+37C%2C+95447+Bayreuth!5e0!3m2!1sde!2sde!4v1411746678557" width="100%" height="500px" frameborder="0" style="border:0;"></iframe>
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-6 col-sm-4">
+                    <h3>Jörg Blindzellner</h3>
+                    <p>Meyernbergerstr. 37c
+                        <br>95447 Bayreuth</p>
+                    <h3>Kontakt</h3>
+                    <p>
+                    	<span class="glyphicon glyphicon-earphone"></span> 0921 33265<br>
+                        <span class="glyphicon glyphicon-envelope"></span> <a href="mailto:info@schnipp-schnapp-bayreuth.de">info@schnipp-schnapp-bayreuth.de</a>
+                    </p>
+                </div>
+                <div class="col-xs-6 col-sm-4">
+                    <h3>Öffnungszeiten</h3>
+                    <table>
+                        <tr>
+                            <td>Di. - Fr.&nbsp;&nbsp;</td>
+                            <td>8.00 - 18.00 Uhr</td>
+                        </tr>
+                        <tr>
+                            <td>Sa.</td>
+                            <td>7.00 - 12.00 Uhr</td>
+                        </tr>
+                    </table>
+                </div>
+                <div class="col-xs-6 col-sm-4">
+                    <h3>Quellenangaben für die verwendeten Bilder und Grafiken:</h3>
+                    <p>© Peter Atkins - Fotolia.com</p>
+                </div>
+
+                
+            </div>
+        </div>
+    </section>
+
+    <section id="footer" data-speed="2" data-type="background">
+        <div class="container">
+            <footer>
+                <p>&copy; SCHNIPP SCHNAPP die Haarmacher</p>
+            </footer>
+        </div>
+    </section>
+    <!-- /container -->
 
     <script src="js/script.min.js"></script>
-    </body>
+    <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5425b2fa0cfb0baa" async></script>
+
+</body>
+
 </html>
