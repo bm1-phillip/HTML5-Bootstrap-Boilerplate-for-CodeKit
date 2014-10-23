@@ -1,15 +1,25 @@
-# humanstxt.org/
-# The humans responsible & technology colophon
+/* humanstxt.org */
 
-# TEAM
+/* TEAM */
 
-    <name> -- <role> -- <twitter>
+    Chef: Phillip Baumgärtner
+    Contact: info [at] agentur-leben (dot) de
+    Site: www.agentur-leben.de
+    About: http://about.me/baumpaul#_=_
+    Twitter: @baumpaul
+    Location: Bayreuth, Germany
 
-# THANKS
+
+/* THANKS */
 
     <name>
 
-# TECHNOLOGY COLOPHON
 
-    HTML5, CSS3
-    jQuery, Modernizr
+/* SITE */
+
+    Last update: 2014/10/23
+    Standards: HTML5, CSS3
+    Components: Bootstrap, Boilerplate, jQuery, html5shiv, Modernizr, respond.js, Normalize.css
+    Software: Sublime Text, CodeKit
+
+    Source: https://github.com/der-phillip/HTML5-Bootstrap-Boilerplate-for-CodeKit
