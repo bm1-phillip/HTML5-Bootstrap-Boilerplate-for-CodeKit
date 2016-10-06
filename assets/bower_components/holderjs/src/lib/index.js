@@ -1,6 +1,6 @@
 /*
 Holder.js - client side image placeholders
-(c) 2012-2015 Ivan Malopinsky - http://imsky.co
+(c) 2012-2016 Ivan Malopinsky - http://imsky.co
 */
 
 //Libraries and functions
@@ -99,7 +99,8 @@ var Holder = {
 
         engineSettings.stylesheets = [];
         engineSettings.svgXMLStylesheet = true;
-        engineSettings.noFontFallback = options.noFontFallback ? options.noFontFallback : false;
+        engineSettings.noFontFallback = !!options.noFontFallback;
+        engineSettings.noBackgroundSize = !!options.noBackgroundSize;
 
         stylenodes.forEach(function (styleNode) {
             if (styleNode.attributes.rel && styleNode.attributes.href && styleNode.attributes.rel.value == 'stylesheet') {
@@ -136,7 +137,7 @@ var Holder = {
                 }
             }
 
-            if (holderURL != null) {
+            if (holderURL) {
                 var holderFlags = parseURL(holderURL, options);
                 if (holderFlags) {
                     prepareDOMElement({
@@ -284,7 +285,13 @@ function parseURL(url, instanceOptions) {
         instanceOptions: instanceOptions
     };
 
-    var parts = url.split('?');
+    var firstQuestionMark = url.indexOf('?');
+    var parts = [url];
+
+    if (firstQuestionMark !== -1) {
+        parts = [url.slice(0, firstQuestionMark), url.slice(firstQuestionMark + 1)];
+    }
+
     var basics = parts[0].split('/');
 
     holder.holderURL = url;
@@ -303,6 +310,22 @@ function parseURL(url, instanceOptions) {
 
     if (parts.length === 2) {
         var options = querystring.parse(parts[1]);
+
+        // Dimensions
+
+        if (utils.truthy(options.ratio)) {
+            holder.fluid = true;
+            var ratioWidth = parseFloat(holder.dimensions.width.replace('%', ''));
+            var ratioHeight = parseFloat(holder.dimensions.height.replace('%', ''));
+
+            ratioHeight = Math.floor(100 * (ratioHeight / ratioWidth));
+            ratioWidth = 100;
+
+            holder.dimensions.width = ratioWidth + '%';
+            holder.dimensions.height = ratioHeight + '%';
+        }
+
+        holder.auto = utils.truthy(options.auto);
 
         // Colors
 
@@ -352,8 +375,6 @@ function parseURL(url, instanceOptions) {
         holder.nowrap = utils.truthy(options.nowrap);
 
         // Miscellaneous
-
-        holder.auto = utils.truthy(options.auto);
 
         holder.outline = utils.truthy(options.outline);
 
@@ -478,7 +499,7 @@ function prepareDOMElement(prepSettings) {
         }
 
         if (engineSettings.renderer == 'html') {
-            el.style.backgroundColor = theme.background;
+            el.style.backgroundColor = theme.bg;
         } else {
             render(renderSettings);
 
@@ -510,7 +531,7 @@ function prepareDOMElement(prepSettings) {
         setInitialDimensions(el);
 
         if (engineSettings.renderer == 'html') {
-            el.style.backgroundColor = theme.background;
+            el.style.backgroundColor = theme.bg;
         } else {
             App.vars.resizableImages.push(el);
             updateResizableElements(el);
@@ -577,7 +598,10 @@ function render(renderSettings) {
     //todo: add <object> canvas rendering
     if (mode == 'background') {
         el.style.backgroundImage = 'url(' + image + ')';
-        el.style.backgroundSize = scene.width + 'px ' + scene.height + 'px';
+
+        if (!engineSettings.noBackgroundSize) {
+            el.style.backgroundSize = scene.width + 'px ' + scene.height + 'px';
+        }
     } else {
         if (el.nodeName.toLowerCase() === 'img') {
             DOM.setAttr(el, {
