@@ -12,138 +12,13 @@
 	"\/.gitignore": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/.gitignore",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/.gitignore",
 		"oF": 0
-		},
-	"\/404.html": {
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/404.html",
-		"oF": 0
-		},
-	"\/assets\/css\/style.css": {
-		"aP": 0,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/assets\/css\/style-min.css",
-		"oF": 0,
-		"oS": 0
-		},
-	"\/assets\/img\/apple-touch-icon.png": {
-		"ft": 32768,
-		"iS": 3959,
-		"oA": 0,
-		"oAP": "\/assets\/img\/apple-touch-icon.png",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/assets\/img\/favicon.ico": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/img\/favicon.ico",
-		"oF": 0
-		},
-	"\/assets\/js\/head.js": {
-		"ft": 64,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/assets\/js\/head.min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/assets\/js\/head.min.js": {
-		"ft": 64,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "\/assets\/js\/head.min.min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/assets\/js\/script.js": {
-		"ft": 64,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/assets\/js\/script.min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/assets\/js\/script.min.js": {
-		"ft": 64,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "\/assets\/js\/script.min.min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/assets\/less\/style.less": {
-		"aP": 0,
-		"bl": 0,
-		"dJ": 0,
-		"ft": 1,
-		"ie": 1,
-		"iI": 0,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/assets\/css\/style.css",
-		"oF": 0,
-		"oS": 0,
-		"rU": 0,
-		"sI": 0,
-		"sM": 0,
-		"sU": 0
-		},
-	"\/assets\/less\/theme.less": {
-		"aP": 0,
-		"bl": 0,
-		"dJ": 0,
-		"ft": 1,
-		"ie": 1,
-		"iI": 0,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/assets\/css\/theme.css",
-		"oF": 0,
-		"oS": 0,
-		"rU": 0,
-		"sI": 0,
-		"sM": 0,
-		"sU": 0
-		},
-	"\/assets\/less\/variables.less": {
-		"aP": 0,
-		"bl": 0,
-		"dJ": 0,
-		"ft": 1,
-		"ie": 1,
-		"iI": 0,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/assets\/css\/variables.css",
-		"oF": 0,
-		"oS": 0,
-		"rU": 1,
-		"sI": 0,
-		"sM": 0,
-		"sU": 0
-		},
-	"\/bower.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "\/bower-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
 		},
 	"\/bower_components\/bootstrap\/.bower.json": {
 		"ft": 524288,
 		"oA": 2,
-		"oAP": "\/bower_components\/bootstrap\/.bower.json",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/.bower.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
@@ -151,7 +26,7 @@
 	"\/bower_components\/bootstrap\/bower.json": {
 		"ft": 524288,
 		"oA": 2,
-		"oAP": "\/bower_components\/bootstrap\/bower.json",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/bower.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
@@ -165,7 +40,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 2,
-		"oAP": "\/bower_components\/bootstrap\/CHANGELOG.md",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/CHANGELOG.md",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -180,14 +55,14 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
-		"oAP": "\/bower_components\/bootstrap\/dist\/css\/bootstrap-theme.css",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/dist\/css\/bootstrap-theme.css",
 		"oF": 0,
 		"oS": 0
 		},
 	"\/bower_components\/bootstrap\/dist\/css\/bootstrap-theme.css.map": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/bower_components\/bootstrap\/dist\/css\/bootstrap-theme.css.map",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/dist\/css\/bootstrap-theme.css.map",
 		"oF": 0
 		},
 	"\/bower_components\/bootstrap\/dist\/css\/bootstrap-theme.min.css": {
@@ -196,14 +71,14 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
-		"oAP": "\/bower_components\/bootstrap\/dist\/css\/bootstrap-theme.min.css",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/dist\/css\/bootstrap-theme.min.css",
 		"oF": 0,
 		"oS": 0
 		},
 	"\/bower_components\/bootstrap\/dist\/css\/bootstrap-theme.min.css.map": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/bower_components\/bootstrap\/dist\/css\/bootstrap-theme.min.css.map",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/dist\/css\/bootstrap-theme.min.css.map",
 		"oF": 0
 		},
 	"\/bower_components\/bootstrap\/dist\/css\/bootstrap.css": {
@@ -212,14 +87,14 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
-		"oAP": "\/bower_components\/bootstrap\/dist\/css\/bootstrap.css",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/dist\/css\/bootstrap.css",
 		"oF": 0,
 		"oS": 0
 		},
 	"\/bower_components\/bootstrap\/dist\/css\/bootstrap.css.map": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/bower_components\/bootstrap\/dist\/css\/bootstrap.css.map",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/dist\/css\/bootstrap.css.map",
 		"oF": 0
 		},
 	"\/bower_components\/bootstrap\/dist\/css\/bootstrap.min.css": {
@@ -228,27 +103,27 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
-		"oAP": "\/bower_components\/bootstrap\/dist\/css\/bootstrap.min.css",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/dist\/css\/bootstrap.min.css",
 		"oF": 0,
 		"oS": 0
 		},
 	"\/bower_components\/bootstrap\/dist\/css\/bootstrap.min.css.map": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/bower_components\/bootstrap\/dist\/css\/bootstrap.min.css.map",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/dist\/css\/bootstrap.min.css.map",
 		"oF": 0
 		},
 	"\/bower_components\/bootstrap\/dist\/fonts\/glyphicons-halflings-regular.eot": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/bower_components\/bootstrap\/dist\/fonts\/glyphicons-halflings-regular.eot",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/dist\/fonts\/glyphicons-halflings-regular.eot",
 		"oF": 0
 		},
 	"\/bower_components\/bootstrap\/dist\/fonts\/glyphicons-halflings-regular.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/bower_components\/bootstrap\/dist\/fonts\/glyphicons-halflings-regular.svg",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/dist\/fonts\/glyphicons-halflings-regular.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
@@ -257,26 +132,26 @@
 	"\/bower_components\/bootstrap\/dist\/fonts\/glyphicons-halflings-regular.ttf": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/bower_components\/bootstrap\/dist\/fonts\/glyphicons-halflings-regular.ttf",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/dist\/fonts\/glyphicons-halflings-regular.ttf",
 		"oF": 0
 		},
 	"\/bower_components\/bootstrap\/dist\/fonts\/glyphicons-halflings-regular.woff": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/bower_components\/bootstrap\/dist\/fonts\/glyphicons-halflings-regular.woff",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/dist\/fonts\/glyphicons-halflings-regular.woff",
 		"oF": 0
 		},
 	"\/bower_components\/bootstrap\/dist\/fonts\/glyphicons-halflings-regular.woff2": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/bower_components\/bootstrap\/dist\/fonts\/glyphicons-halflings-regular.woff2",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/dist\/fonts\/glyphicons-halflings-regular.woff2",
 		"oF": 0
 		},
 	"\/bower_components\/bootstrap\/dist\/js\/bootstrap.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/bootstrap\/dist\/js\/bootstrap.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/dist\/js\/bootstrap.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -285,7 +160,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/bower_components\/bootstrap\/dist\/js\/bootstrap.min.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/dist\/js\/bootstrap.min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -294,7 +169,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/bootstrap\/dist\/js\/npm.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/dist\/js\/npm.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -302,14 +177,14 @@
 	"\/bower_components\/bootstrap\/fonts\/glyphicons-halflings-regular.eot": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/bower_components\/bootstrap\/fonts\/glyphicons-halflings-regular.eot",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/fonts\/glyphicons-halflings-regular.eot",
 		"oF": 0
 		},
 	"\/bower_components\/bootstrap\/fonts\/glyphicons-halflings-regular.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/bower_components\/bootstrap\/fonts\/glyphicons-halflings-regular.svg",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/fonts\/glyphicons-halflings-regular.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
@@ -318,44 +193,44 @@
 	"\/bower_components\/bootstrap\/fonts\/glyphicons-halflings-regular.ttf": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/bower_components\/bootstrap\/fonts\/glyphicons-halflings-regular.ttf",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/fonts\/glyphicons-halflings-regular.ttf",
 		"oF": 0
 		},
 	"\/bower_components\/bootstrap\/fonts\/glyphicons-halflings-regular.woff": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/bower_components\/bootstrap\/fonts\/glyphicons-halflings-regular.woff",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/fonts\/glyphicons-halflings-regular.woff",
 		"oF": 0
 		},
 	"\/bower_components\/bootstrap\/fonts\/glyphicons-halflings-regular.woff2": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/bower_components\/bootstrap\/fonts\/glyphicons-halflings-regular.woff2",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/fonts\/glyphicons-halflings-regular.woff2",
 		"oF": 0
 		},
 	"\/bower_components\/bootstrap\/Gemfile": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/bower_components\/bootstrap\/Gemfile",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/Gemfile",
 		"oF": 0
 		},
 	"\/bower_components\/bootstrap\/Gemfile.lock": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/bower_components\/bootstrap\/Gemfile.lock",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/Gemfile.lock",
 		"oF": 0
 		},
 	"\/bower_components\/bootstrap\/grunt\/.jshintrc": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/bower_components\/bootstrap\/grunt\/.jshintrc",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/grunt\/.jshintrc",
 		"oF": 0
 		},
 	"\/bower_components\/bootstrap\/grunt\/bs-commonjs-generator.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/bootstrap\/grunt\/bs-commonjs-generator.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/grunt\/bs-commonjs-generator.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -364,7 +239,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/bootstrap\/grunt\/bs-glyphicons-data-generator.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/grunt\/bs-glyphicons-data-generator.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -373,7 +248,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/bootstrap\/grunt\/bs-lessdoc-parser.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/grunt\/bs-lessdoc-parser.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -382,7 +257,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/bootstrap\/grunt\/bs-raw-files-generator.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/grunt\/bs-raw-files-generator.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -391,7 +266,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/bootstrap\/grunt\/change-version.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/grunt\/change-version.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -399,7 +274,7 @@
 	"\/bower_components\/bootstrap\/grunt\/configBridge.json": {
 		"ft": 524288,
 		"oA": 2,
-		"oAP": "\/bower_components\/bootstrap\/grunt\/configBridge.json",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/grunt\/configBridge.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
@@ -407,7 +282,7 @@
 	"\/bower_components\/bootstrap\/grunt\/npm-shrinkwrap.json": {
 		"ft": 524288,
 		"oA": 2,
-		"oAP": "\/bower_components\/bootstrap\/grunt\/npm-shrinkwrap.json",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/grunt\/npm-shrinkwrap.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
@@ -415,14 +290,14 @@
 	"\/bower_components\/bootstrap\/grunt\/sauce_browsers.yml": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/bower_components\/bootstrap\/grunt\/sauce_browsers.yml",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/grunt\/sauce_browsers.yml",
 		"oF": 0
 		},
 	"\/bower_components\/bootstrap\/Gruntfile.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/bootstrap\/Gruntfile.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/Gruntfile.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -436,7 +311,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 2,
-		"oAP": "\/bower_components\/bootstrap\/ISSUE_TEMPLATE.md",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/ISSUE_TEMPLATE.md",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -448,20 +323,20 @@
 	"\/bower_components\/bootstrap\/js\/.jscsrc": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/bower_components\/bootstrap\/js\/.jscsrc",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/js\/.jscsrc",
 		"oF": 0
 		},
 	"\/bower_components\/bootstrap\/js\/.jshintrc": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/bower_components\/bootstrap\/js\/.jshintrc",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/js\/.jshintrc",
 		"oF": 0
 		},
 	"\/bower_components\/bootstrap\/js\/affix.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/bootstrap\/js\/affix.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/js\/affix.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -470,7 +345,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/bootstrap\/js\/alert.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/js\/alert.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -479,7 +354,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/bootstrap\/js\/button.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/js\/button.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -488,7 +363,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/bootstrap\/js\/carousel.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/js\/carousel.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -497,7 +372,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/bootstrap\/js\/collapse.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/js\/collapse.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -506,7 +381,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/bootstrap\/js\/dropdown.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/js\/dropdown.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -515,7 +390,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/bootstrap\/js\/modal.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/js\/modal.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -524,7 +399,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/bootstrap\/js\/popover.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/js\/popover.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -533,7 +408,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/bootstrap\/js\/scrollspy.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/js\/scrollspy.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -542,7 +417,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/bootstrap\/js\/tab.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/js\/tab.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -551,7 +426,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/bootstrap\/js\/tooltip.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/js\/tooltip.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -560,7 +435,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/bootstrap\/js\/transition.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/js\/transition.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -568,7 +443,7 @@
 	"\/bower_components\/bootstrap\/less\/.csscomb.json": {
 		"ft": 524288,
 		"oA": 2,
-		"oAP": "\/bower_components\/bootstrap\/less\/.csscomb.json",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/less\/.csscomb.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
@@ -576,7 +451,7 @@
 	"\/bower_components\/bootstrap\/less\/.csslintrc": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/bower_components\/bootstrap\/less\/.csslintrc",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/less\/.csslintrc",
 		"oF": 0
 		},
 	"\/bower_components\/bootstrap\/less\/alerts.less": {
@@ -588,7 +463,7 @@
 		"iI": 0,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/bower_components\/bootstrap\/less\/alerts.less",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/less\/alerts.less",
 		"oF": 0,
 		"oS": 0,
 		"rU": 0,
@@ -605,7 +480,7 @@
 		"iI": 0,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/bower_components\/bootstrap\/less\/badges.less",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/less\/badges.less",
 		"oF": 0,
 		"oS": 0,
 		"rU": 0,
@@ -622,7 +497,7 @@
 		"iI": 0,
 		"ma": 0,
 		"oA": 2,
-		"oAP": "\/bower_components\/bootstrap\/less\/bootstrap.less",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/less\/bootstrap.less",
 		"oF": 0,
 		"oS": 0,
 		"rU": 0,
@@ -639,7 +514,7 @@
 		"iI": 0,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/bower_components\/bootstrap\/less\/breadcrumbs.less",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/less\/breadcrumbs.less",
 		"oF": 0,
 		"oS": 0,
 		"rU": 0,
@@ -656,7 +531,7 @@
 		"iI": 0,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/bower_components\/bootstrap\/less\/button-groups.less",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/less\/button-groups.less",
 		"oF": 0,
 		"oS": 0,
 		"rU": 0,
@@ -673,7 +548,7 @@
 		"iI": 0,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/bower_components\/bootstrap\/less\/buttons.less",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/less\/buttons.less",
 		"oF": 0,
 		"oS": 0,
 		"rU": 0,
@@ -690,7 +565,7 @@
 		"iI": 0,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/bower_components\/bootstrap\/less\/carousel.less",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/less\/carousel.less",
 		"oF": 0,
 		"oS": 0,
 		"rU": 0,
@@ -707,7 +582,7 @@
 		"iI": 0,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/bower_components\/bootstrap\/less\/close.less",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/less\/close.less",
 		"oF": 0,
 		"oS": 0,
 		"rU": 0,
@@ -724,7 +599,7 @@
 		"iI": 0,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/bower_components\/bootstrap\/less\/code.less",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/less\/code.less",
 		"oF": 0,
 		"oS": 0,
 		"rU": 0,
@@ -741,7 +616,7 @@
 		"iI": 0,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/bower_components\/bootstrap\/less\/component-animations.less",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/less\/component-animations.less",
 		"oF": 0,
 		"oS": 0,
 		"rU": 0,
@@ -758,7 +633,7 @@
 		"iI": 0,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/bower_components\/bootstrap\/less\/dropdowns.less",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/less\/dropdowns.less",
 		"oF": 0,
 		"oS": 0,
 		"rU": 0,
@@ -775,7 +650,7 @@
 		"iI": 0,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/bower_components\/bootstrap\/less\/forms.less",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/less\/forms.less",
 		"oF": 0,
 		"oS": 0,
 		"rU": 0,
@@ -792,7 +667,7 @@
 		"iI": 0,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/bower_components\/bootstrap\/less\/glyphicons.less",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/less\/glyphicons.less",
 		"oF": 0,
 		"oS": 0,
 		"rU": 0,
@@ -809,7 +684,7 @@
 		"iI": 0,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/bower_components\/bootstrap\/less\/grid.less",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/less\/grid.less",
 		"oF": 0,
 		"oS": 0,
 		"rU": 0,
@@ -826,7 +701,7 @@
 		"iI": 0,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/bower_components\/bootstrap\/less\/input-groups.less",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/less\/input-groups.less",
 		"oF": 0,
 		"oS": 0,
 		"rU": 0,
@@ -843,7 +718,7 @@
 		"iI": 0,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/bower_components\/bootstrap\/less\/jumbotron.less",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/less\/jumbotron.less",
 		"oF": 0,
 		"oS": 0,
 		"rU": 0,
@@ -860,7 +735,7 @@
 		"iI": 0,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/bower_components\/bootstrap\/less\/labels.less",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/less\/labels.less",
 		"oF": 0,
 		"oS": 0,
 		"rU": 0,
@@ -877,7 +752,7 @@
 		"iI": 0,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/bower_components\/bootstrap\/less\/list-group.less",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/less\/list-group.less",
 		"oF": 0,
 		"oS": 0,
 		"rU": 0,
@@ -894,7 +769,7 @@
 		"iI": 0,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/bower_components\/bootstrap\/less\/media.less",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/less\/media.less",
 		"oF": 0,
 		"oS": 0,
 		"rU": 0,
@@ -911,7 +786,7 @@
 		"iI": 0,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/bower_components\/bootstrap\/less\/mixins.less",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/less\/mixins.less",
 		"oF": 0,
 		"oS": 0,
 		"rU": 0,
@@ -928,7 +803,7 @@
 		"iI": 0,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/bower_components\/bootstrap\/less\/mixins\/alerts.less",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/less\/mixins\/alerts.less",
 		"oF": 0,
 		"oS": 0,
 		"rU": 0,
@@ -945,7 +820,7 @@
 		"iI": 0,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/bower_components\/bootstrap\/less\/mixins\/background-variant.less",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/less\/mixins\/background-variant.less",
 		"oF": 0,
 		"oS": 0,
 		"rU": 0,
@@ -962,7 +837,7 @@
 		"iI": 0,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/bower_components\/bootstrap\/less\/mixins\/border-radius.less",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/less\/mixins\/border-radius.less",
 		"oF": 0,
 		"oS": 0,
 		"rU": 0,
@@ -979,7 +854,7 @@
 		"iI": 0,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/bower_components\/bootstrap\/less\/mixins\/buttons.less",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/less\/mixins\/buttons.less",
 		"oF": 0,
 		"oS": 0,
 		"rU": 0,
@@ -996,7 +871,7 @@
 		"iI": 0,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/bower_components\/bootstrap\/less\/mixins\/center-block.less",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/less\/mixins\/center-block.less",
 		"oF": 0,
 		"oS": 0,
 		"rU": 0,
@@ -1013,7 +888,7 @@
 		"iI": 0,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/bower_components\/bootstrap\/less\/mixins\/clearfix.less",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/less\/mixins\/clearfix.less",
 		"oF": 0,
 		"oS": 0,
 		"rU": 0,
@@ -1030,7 +905,7 @@
 		"iI": 0,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/bower_components\/bootstrap\/less\/mixins\/forms.less",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/less\/mixins\/forms.less",
 		"oF": 0,
 		"oS": 0,
 		"rU": 0,
@@ -1047,7 +922,7 @@
 		"iI": 0,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/bower_components\/bootstrap\/less\/mixins\/gradients.less",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/less\/mixins\/gradients.less",
 		"oF": 0,
 		"oS": 0,
 		"rU": 0,
@@ -1064,7 +939,7 @@
 		"iI": 0,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/bower_components\/bootstrap\/less\/mixins\/grid-framework.less",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/less\/mixins\/grid-framework.less",
 		"oF": 0,
 		"oS": 0,
 		"rU": 0,
@@ -1081,7 +956,7 @@
 		"iI": 0,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/bower_components\/bootstrap\/less\/mixins\/grid.less",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/less\/mixins\/grid.less",
 		"oF": 0,
 		"oS": 0,
 		"rU": 0,
@@ -1098,7 +973,7 @@
 		"iI": 0,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/bower_components\/bootstrap\/less\/mixins\/hide-text.less",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/less\/mixins\/hide-text.less",
 		"oF": 0,
 		"oS": 0,
 		"rU": 0,
@@ -1115,7 +990,7 @@
 		"iI": 0,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/bower_components\/bootstrap\/less\/mixins\/image.less",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/less\/mixins\/image.less",
 		"oF": 0,
 		"oS": 0,
 		"rU": 0,
@@ -1132,7 +1007,7 @@
 		"iI": 0,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/bower_components\/bootstrap\/less\/mixins\/labels.less",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/less\/mixins\/labels.less",
 		"oF": 0,
 		"oS": 0,
 		"rU": 0,
@@ -1149,7 +1024,7 @@
 		"iI": 0,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/bower_components\/bootstrap\/less\/mixins\/list-group.less",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/less\/mixins\/list-group.less",
 		"oF": 0,
 		"oS": 0,
 		"rU": 0,
@@ -1166,7 +1041,7 @@
 		"iI": 0,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/bower_components\/bootstrap\/less\/mixins\/nav-divider.less",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/less\/mixins\/nav-divider.less",
 		"oF": 0,
 		"oS": 0,
 		"rU": 0,
@@ -1183,7 +1058,7 @@
 		"iI": 0,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/bower_components\/bootstrap\/less\/mixins\/nav-vertical-align.less",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/less\/mixins\/nav-vertical-align.less",
 		"oF": 0,
 		"oS": 0,
 		"rU": 0,
@@ -1200,7 +1075,7 @@
 		"iI": 0,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/bower_components\/bootstrap\/less\/mixins\/opacity.less",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/less\/mixins\/opacity.less",
 		"oF": 0,
 		"oS": 0,
 		"rU": 0,
@@ -1217,7 +1092,7 @@
 		"iI": 0,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/bower_components\/bootstrap\/less\/mixins\/pagination.less",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/less\/mixins\/pagination.less",
 		"oF": 0,
 		"oS": 0,
 		"rU": 0,
@@ -1234,7 +1109,7 @@
 		"iI": 0,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/bower_components\/bootstrap\/less\/mixins\/panels.less",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/less\/mixins\/panels.less",
 		"oF": 0,
 		"oS": 0,
 		"rU": 0,
@@ -1251,7 +1126,7 @@
 		"iI": 0,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/bower_components\/bootstrap\/less\/mixins\/progress-bar.less",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/less\/mixins\/progress-bar.less",
 		"oF": 0,
 		"oS": 0,
 		"rU": 0,
@@ -1268,7 +1143,7 @@
 		"iI": 0,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/bower_components\/bootstrap\/less\/mixins\/reset-filter.less",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/less\/mixins\/reset-filter.less",
 		"oF": 0,
 		"oS": 0,
 		"rU": 0,
@@ -1285,7 +1160,7 @@
 		"iI": 0,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/bower_components\/bootstrap\/less\/mixins\/reset-text.less",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/less\/mixins\/reset-text.less",
 		"oF": 0,
 		"oS": 0,
 		"rU": 0,
@@ -1302,7 +1177,7 @@
 		"iI": 0,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/bower_components\/bootstrap\/less\/mixins\/resize.less",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/less\/mixins\/resize.less",
 		"oF": 0,
 		"oS": 0,
 		"rU": 0,
@@ -1319,7 +1194,7 @@
 		"iI": 0,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/bower_components\/bootstrap\/less\/mixins\/responsive-visibility.less",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/less\/mixins\/responsive-visibility.less",
 		"oF": 0,
 		"oS": 0,
 		"rU": 0,
@@ -1336,7 +1211,7 @@
 		"iI": 0,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/bower_components\/bootstrap\/less\/mixins\/size.less",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/less\/mixins\/size.less",
 		"oF": 0,
 		"oS": 0,
 		"rU": 0,
@@ -1353,7 +1228,7 @@
 		"iI": 0,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/bower_components\/bootstrap\/less\/mixins\/tab-focus.less",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/less\/mixins\/tab-focus.less",
 		"oF": 0,
 		"oS": 0,
 		"rU": 0,
@@ -1370,7 +1245,7 @@
 		"iI": 0,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/bower_components\/bootstrap\/less\/mixins\/table-row.less",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/less\/mixins\/table-row.less",
 		"oF": 0,
 		"oS": 0,
 		"rU": 0,
@@ -1387,7 +1262,7 @@
 		"iI": 0,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/bower_components\/bootstrap\/less\/mixins\/text-emphasis.less",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/less\/mixins\/text-emphasis.less",
 		"oF": 0,
 		"oS": 0,
 		"rU": 0,
@@ -1404,7 +1279,7 @@
 		"iI": 0,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/bower_components\/bootstrap\/less\/mixins\/text-overflow.less",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/less\/mixins\/text-overflow.less",
 		"oF": 0,
 		"oS": 0,
 		"rU": 0,
@@ -1421,7 +1296,7 @@
 		"iI": 0,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/bower_components\/bootstrap\/less\/mixins\/vendor-prefixes.less",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/less\/mixins\/vendor-prefixes.less",
 		"oF": 0,
 		"oS": 0,
 		"rU": 0,
@@ -1438,7 +1313,7 @@
 		"iI": 0,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/bower_components\/bootstrap\/less\/modals.less",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/less\/modals.less",
 		"oF": 0,
 		"oS": 0,
 		"rU": 0,
@@ -1455,7 +1330,7 @@
 		"iI": 0,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/bower_components\/bootstrap\/less\/navbar.less",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/less\/navbar.less",
 		"oF": 0,
 		"oS": 0,
 		"rU": 0,
@@ -1472,7 +1347,7 @@
 		"iI": 0,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/bower_components\/bootstrap\/less\/navs.less",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/less\/navs.less",
 		"oF": 0,
 		"oS": 0,
 		"rU": 0,
@@ -1489,7 +1364,7 @@
 		"iI": 0,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/bower_components\/bootstrap\/less\/normalize.less",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/less\/normalize.less",
 		"oF": 0,
 		"oS": 0,
 		"rU": 0,
@@ -1506,7 +1381,7 @@
 		"iI": 0,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/bower_components\/bootstrap\/less\/pager.less",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/less\/pager.less",
 		"oF": 0,
 		"oS": 0,
 		"rU": 0,
@@ -1523,7 +1398,7 @@
 		"iI": 0,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/bower_components\/bootstrap\/less\/pagination.less",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/less\/pagination.less",
 		"oF": 0,
 		"oS": 0,
 		"rU": 0,
@@ -1540,7 +1415,7 @@
 		"iI": 0,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/bower_components\/bootstrap\/less\/panels.less",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/less\/panels.less",
 		"oF": 0,
 		"oS": 0,
 		"rU": 0,
@@ -1557,7 +1432,7 @@
 		"iI": 0,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/bower_components\/bootstrap\/less\/popovers.less",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/less\/popovers.less",
 		"oF": 0,
 		"oS": 0,
 		"rU": 0,
@@ -1574,7 +1449,7 @@
 		"iI": 0,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/bower_components\/bootstrap\/less\/print.less",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/less\/print.less",
 		"oF": 0,
 		"oS": 0,
 		"rU": 0,
@@ -1591,7 +1466,7 @@
 		"iI": 0,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/bower_components\/bootstrap\/less\/progress-bars.less",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/less\/progress-bars.less",
 		"oF": 0,
 		"oS": 0,
 		"rU": 0,
@@ -1608,7 +1483,7 @@
 		"iI": 0,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/bower_components\/bootstrap\/less\/responsive-embed.less",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/less\/responsive-embed.less",
 		"oF": 0,
 		"oS": 0,
 		"rU": 0,
@@ -1625,7 +1500,7 @@
 		"iI": 0,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/bower_components\/bootstrap\/less\/responsive-utilities.less",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/less\/responsive-utilities.less",
 		"oF": 0,
 		"oS": 0,
 		"rU": 0,
@@ -1642,7 +1517,7 @@
 		"iI": 0,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/bower_components\/bootstrap\/less\/scaffolding.less",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/less\/scaffolding.less",
 		"oF": 0,
 		"oS": 0,
 		"rU": 0,
@@ -1659,7 +1534,7 @@
 		"iI": 0,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/bower_components\/bootstrap\/less\/tables.less",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/less\/tables.less",
 		"oF": 0,
 		"oS": 0,
 		"rU": 0,
@@ -1676,7 +1551,7 @@
 		"iI": 0,
 		"ma": 0,
 		"oA": 2,
-		"oAP": "\/bower_components\/bootstrap\/less\/theme.less",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/less\/theme.less",
 		"oF": 0,
 		"oS": 0,
 		"rU": 0,
@@ -1693,7 +1568,7 @@
 		"iI": 0,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/bower_components\/bootstrap\/less\/thumbnails.less",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/less\/thumbnails.less",
 		"oF": 0,
 		"oS": 0,
 		"rU": 0,
@@ -1710,7 +1585,7 @@
 		"iI": 0,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/bower_components\/bootstrap\/less\/tooltip.less",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/less\/tooltip.less",
 		"oF": 0,
 		"oS": 0,
 		"rU": 0,
@@ -1727,7 +1602,7 @@
 		"iI": 0,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/bower_components\/bootstrap\/less\/type.less",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/less\/type.less",
 		"oF": 0,
 		"oS": 0,
 		"rU": 0,
@@ -1744,7 +1619,7 @@
 		"iI": 0,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/bower_components\/bootstrap\/less\/utilities.less",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/less\/utilities.less",
 		"oF": 0,
 		"oS": 0,
 		"rU": 0,
@@ -1761,7 +1636,7 @@
 		"iI": 0,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/bower_components\/bootstrap\/less\/variables.less",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/less\/variables.less",
 		"oF": 0,
 		"oS": 0,
 		"rU": 0,
@@ -1778,7 +1653,7 @@
 		"iI": 0,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/bower_components\/bootstrap\/less\/wells.less",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/less\/wells.less",
 		"oF": 0,
 		"oS": 0,
 		"rU": 0,
@@ -1789,32 +1664,32 @@
 	"\/bower_components\/bootstrap\/LICENSE": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/bower_components\/bootstrap\/LICENSE",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/LICENSE",
 		"oF": 0
 		},
 	"\/bower_components\/bootstrap\/nuget\/bootstrap.less.nuspec": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/bower_components\/bootstrap\/nuget\/bootstrap.less.nuspec",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/nuget\/bootstrap.less.nuspec",
 		"oF": 0
 		},
 	"\/bower_components\/bootstrap\/nuget\/bootstrap.nuspec": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/bower_components\/bootstrap\/nuget\/bootstrap.nuspec",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/nuget\/bootstrap.nuspec",
 		"oF": 0
 		},
 	"\/bower_components\/bootstrap\/nuget\/MyGet.ps1": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/bower_components\/bootstrap\/nuget\/MyGet.ps1",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/nuget\/MyGet.ps1",
 		"oF": 0
 		},
 	"\/bower_components\/bootstrap\/package.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/bootstrap\/package.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/package.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -1822,7 +1697,7 @@
 	"\/bower_components\/bootstrap\/package.json": {
 		"ft": 524288,
 		"oA": 2,
-		"oAP": "\/bower_components\/bootstrap\/package.json",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/package.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
@@ -1836,7 +1711,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 2,
-		"oAP": "\/bower_components\/bootstrap\/README.md",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/bootstrap\/README.md",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1848,7 +1723,7 @@
 	"\/bower_components\/jquery\/.bower.json": {
 		"ft": 524288,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/.bower.json",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/.bower.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
@@ -1856,13 +1731,13 @@
 	"\/bower_components\/jquery\/AUTHORS.txt": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/AUTHORS.txt",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/AUTHORS.txt",
 		"oF": 0
 		},
 	"\/bower_components\/jquery\/bower.json": {
 		"ft": 524288,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/bower.json",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/bower.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
@@ -1871,7 +1746,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/dist\/core.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/dist\/core.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -1880,7 +1755,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/dist\/jquery.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/dist\/jquery.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -1889,7 +1764,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/bower_components\/jquery\/dist\/jquery.min.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/dist\/jquery.min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -1897,14 +1772,14 @@
 	"\/bower_components\/jquery\/dist\/jquery.min.map": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/dist\/jquery.min.map",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/dist\/jquery.min.map",
 		"oF": 0
 		},
 	"\/bower_components\/jquery\/dist\/jquery.slim.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/dist\/jquery.slim.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/dist\/jquery.slim.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -1913,7 +1788,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/dist\/jquery.slim.min.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/dist\/jquery.slim.min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -1921,14 +1796,14 @@
 	"\/bower_components\/jquery\/dist\/jquery.slim.min.map": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/dist\/jquery.slim.min.map",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/dist\/jquery.slim.min.map",
 		"oF": 0
 		},
 	"\/bower_components\/jquery\/external\/sizzle\/dist\/sizzle.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/external\/sizzle\/dist\/sizzle.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/external\/sizzle\/dist\/sizzle.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -1937,7 +1812,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/external\/sizzle\/dist\/sizzle.min.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/external\/sizzle\/dist\/sizzle.min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -1945,19 +1820,19 @@
 	"\/bower_components\/jquery\/external\/sizzle\/dist\/sizzle.min.map": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/external\/sizzle\/dist\/sizzle.min.map",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/external\/sizzle\/dist\/sizzle.min.map",
 		"oF": 0
 		},
 	"\/bower_components\/jquery\/external\/sizzle\/LICENSE.txt": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/external\/sizzle\/LICENSE.txt",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/external\/sizzle\/LICENSE.txt",
 		"oF": 0
 		},
 	"\/bower_components\/jquery\/LICENSE.txt": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/LICENSE.txt",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/LICENSE.txt",
 		"oF": 0
 		},
 	"\/bower_components\/jquery\/README.md": {
@@ -1969,7 +1844,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/README.md",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/README.md",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1981,7 +1856,7 @@
 	"\/bower_components\/jquery\/src\/.eslintrc.json": {
 		"ft": 524288,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/.eslintrc.json",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/.eslintrc.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
@@ -1990,7 +1865,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/ajax.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/ajax.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -1999,7 +1874,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/ajax\/jsonp.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/ajax\/jsonp.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2008,7 +1883,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/ajax\/load.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/ajax\/load.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2017,7 +1892,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/ajax\/parseXML.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/ajax\/parseXML.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2026,7 +1901,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/ajax\/script.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/ajax\/script.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2035,7 +1910,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/ajax\/var\/location.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/ajax\/var\/location.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2044,7 +1919,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/ajax\/var\/nonce.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/ajax\/var\/nonce.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2053,7 +1928,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/ajax\/var\/rquery.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/ajax\/var\/rquery.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2062,7 +1937,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/ajax\/xhr.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/ajax\/xhr.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2071,7 +1946,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/attributes.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/attributes.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2080,7 +1955,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/attributes\/attr.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/attributes\/attr.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2089,7 +1964,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/attributes\/classes.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/attributes\/classes.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2098,7 +1973,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/attributes\/prop.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/attributes\/prop.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2107,7 +1982,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/attributes\/support.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/attributes\/support.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2116,7 +1991,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/attributes\/val.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/attributes\/val.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2125,7 +2000,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/callbacks.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/callbacks.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2134,7 +2009,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/core.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/core.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2143,7 +2018,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/core\/access.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/core\/access.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2152,7 +2027,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/core\/DOMEval.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/core\/DOMEval.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2161,7 +2036,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/core\/init.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/core\/init.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2170,7 +2045,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/core\/parseHTML.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/core\/parseHTML.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2179,7 +2054,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/core\/ready-no-deferred.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/core\/ready-no-deferred.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2188,7 +2063,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/core\/ready.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/core\/ready.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2197,7 +2072,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/core\/readyException.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/core\/readyException.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2206,7 +2081,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/core\/stripAndCollapse.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/core\/stripAndCollapse.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2215,7 +2090,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/core\/support.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/core\/support.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2224,7 +2099,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/core\/var\/rsingleTag.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/core\/var\/rsingleTag.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2233,7 +2108,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/css.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/css.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2242,7 +2117,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/css\/addGetHookIf.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/css\/addGetHookIf.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2251,7 +2126,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/css\/adjustCSS.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/css\/adjustCSS.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2260,7 +2135,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/css\/curCSS.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/css\/curCSS.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2269,7 +2144,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/css\/hiddenVisibleSelectors.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/css\/hiddenVisibleSelectors.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2278,7 +2153,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/css\/showHide.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/css\/showHide.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2287,7 +2162,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/css\/support.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/css\/support.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2296,7 +2171,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/css\/var\/cssExpand.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/css\/var\/cssExpand.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2305,7 +2180,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/css\/var\/getStyles.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/css\/var\/getStyles.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2314,7 +2189,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/css\/var\/isHiddenWithinTree.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/css\/var\/isHiddenWithinTree.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2323,7 +2198,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/css\/var\/rmargin.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/css\/var\/rmargin.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2332,7 +2207,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/css\/var\/rnumnonpx.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/css\/var\/rnumnonpx.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2341,7 +2216,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/css\/var\/swap.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/css\/var\/swap.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2350,7 +2225,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/data.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/data.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2359,7 +2234,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/data\/Data.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/data\/Data.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2368,7 +2243,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/data\/var\/acceptData.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/data\/var\/acceptData.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2377,7 +2252,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/data\/var\/dataPriv.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/data\/var\/dataPriv.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2386,7 +2261,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/data\/var\/dataUser.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/data\/var\/dataUser.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2395,7 +2270,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/deferred.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/deferred.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2404,7 +2279,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/deferred\/exceptionHook.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/deferred\/exceptionHook.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2413,7 +2288,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/deprecated.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/deprecated.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2422,7 +2297,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/dimensions.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/dimensions.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2431,7 +2306,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/effects.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/effects.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2440,7 +2315,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/effects\/animatedSelector.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/effects\/animatedSelector.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2449,7 +2324,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/effects\/Tween.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/effects\/Tween.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2458,7 +2333,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/event.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/event.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2467,7 +2342,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/event\/ajax.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/event\/ajax.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2476,7 +2351,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/event\/alias.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/event\/alias.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2485,7 +2360,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/event\/focusin.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/event\/focusin.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2494,7 +2369,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/event\/support.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/event\/support.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2503,7 +2378,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/event\/trigger.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/event\/trigger.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2512,7 +2387,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/exports\/amd.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/exports\/amd.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2521,7 +2396,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/exports\/global.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/exports\/global.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2530,7 +2405,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/jquery.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/jquery.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2539,7 +2414,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/manipulation.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/manipulation.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2548,7 +2423,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "\/bower_components\/jquery\/src\/manipulation\/_evalUrl.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/manipulation\/_evalUrl.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2557,7 +2432,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/manipulation\/buildFragment.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/manipulation\/buildFragment.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2566,7 +2441,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/manipulation\/getAll.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/manipulation\/getAll.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2575,7 +2450,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/manipulation\/setGlobalEval.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/manipulation\/setGlobalEval.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2584,7 +2459,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/manipulation\/support.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/manipulation\/support.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2593,7 +2468,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/manipulation\/var\/rcheckableType.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/manipulation\/var\/rcheckableType.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2602,7 +2477,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/manipulation\/var\/rscriptType.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/manipulation\/var\/rscriptType.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2611,7 +2486,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/manipulation\/var\/rtagName.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/manipulation\/var\/rtagName.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2620,7 +2495,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/manipulation\/wrapMap.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/manipulation\/wrapMap.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2629,7 +2504,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/offset.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/offset.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2638,7 +2513,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/queue.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/queue.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2647,7 +2522,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/queue\/delay.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/queue\/delay.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2656,7 +2531,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/selector-native.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/selector-native.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2665,7 +2540,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/selector-sizzle.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/selector-sizzle.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2674,7 +2549,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/selector.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/selector.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2683,7 +2558,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/serialize.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/serialize.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2692,7 +2567,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/traversing.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/traversing.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2701,7 +2576,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/traversing\/findFilter.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/traversing\/findFilter.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2710,7 +2585,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/traversing\/var\/dir.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/traversing\/var\/dir.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2719,7 +2594,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/traversing\/var\/rneedsContext.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/traversing\/var\/rneedsContext.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2728,7 +2603,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/traversing\/var\/siblings.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/traversing\/var\/siblings.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2737,7 +2612,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/var\/arr.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/var\/arr.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2746,7 +2621,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/var\/class2type.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/var\/class2type.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2755,7 +2630,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/var\/concat.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/var\/concat.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2764,7 +2639,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/var\/document.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/var\/document.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2773,7 +2648,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/var\/documentElement.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/var\/documentElement.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2782,7 +2657,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/var\/fnToString.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/var\/fnToString.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2791,7 +2666,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/var\/getProto.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/var\/getProto.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2800,7 +2675,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/var\/hasOwn.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/var\/hasOwn.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2809,7 +2684,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/var\/indexOf.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/var\/indexOf.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2818,7 +2693,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/var\/ObjectFunctionString.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/var\/ObjectFunctionString.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2827,7 +2702,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/var\/pnum.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/var\/pnum.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2836,7 +2711,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/var\/push.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/var\/push.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2845,7 +2720,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/var\/rcssNum.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/var\/rcssNum.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2854,7 +2729,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/var\/rnothtmlwhite.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/var\/rnothtmlwhite.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2863,7 +2738,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/var\/slice.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/var\/slice.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2872,7 +2747,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/var\/support.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/var\/support.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2881,7 +2756,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/var\/toString.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/var\/toString.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2890,7 +2765,7 @@
 		"ft": 64,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/wrap.js",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/jquery\/src\/wrap.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2898,7 +2773,7 @@
 	"\/bower_components\/modernizr\/.bower.json": {
 		"ft": 524288,
 		"oA": 2,
-		"oAP": "\/bower_components\/modernizr\/.bower.json",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/modernizr\/.bower.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
@@ -2906,13 +2781,13 @@
 	"\/bower_components\/modernizr\/.gitignore": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/bower_components\/modernizr\/.gitignore",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/modernizr\/.gitignore",
 		"oF": 0
 		},
 	"\/bower_components\/modernizr\/bower.json": {
 		"ft": 524288,
 		"oA": 2,
-		"oAP": "\/bower_components\/modernizr\/bower.json",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/modernizr\/bower.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
@@ -2920,7 +2795,7 @@
 	"\/bower_components\/modernizr\/component.json": {
 		"ft": 524288,
 		"oA": 2,
-		"oAP": "\/bower_components\/modernizr\/component.json",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/modernizr\/component.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
@@ -2928,7 +2803,7 @@
 	"\/bower_components\/modernizr\/composer.json": {
 		"ft": 524288,
 		"oA": 2,
-		"oAP": "\/bower_components\/modernizr\/composer.json",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/modernizr\/composer.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
@@ -2936,14 +2811,14 @@
 	"\/bower_components\/modernizr\/LICENSE": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/bower_components\/modernizr\/LICENSE",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/modernizr\/LICENSE",
 		"oF": 0
 		},
 	"\/bower_components\/modernizr\/modernizr.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 1,
-		"oAP": "\/bower_components\/modernizr\/modernizr.js",
+		"oA": 2,
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/modernizr\/modernizr.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -2951,7 +2826,7 @@
 	"\/bower_components\/modernizr\/package.json": {
 		"ft": 524288,
 		"oA": 2,
-		"oAP": "\/bower_components\/modernizr\/package.json",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/modernizr\/package.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
@@ -2965,7 +2840,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 2,
-		"oAP": "\/bower_components\/modernizr\/README.md",
+		"oAP": "\/build\/Volumes\/htdocs-2\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/bower_components\/modernizr\/README.md",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -2974,19 +2849,122 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/index.html": {
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/index.html",
+	"\/build": {
+		"ft": 65536,
+		"oA": 1,
+		"oAP": "\/build\/build",
 		"oF": 0
 		},
-	"\/README.html": {
-		"ft": 8192,
+	"\/source\/404.kit": {
+		"ft": 2048,
 		"oA": 0,
-		"oAP": "\/README.html",
+		"oAP": "\/build\/404.html",
 		"oF": 0
 		},
-	"\/README.md": {
+	"\/source\/assets\/img\/apple-touch-icon.png": {
+		"ft": 32768,
+		"iS": 3959,
+		"oA": 0,
+		"oAP": "\/build\/assets\/img\/apple-touch-icon.png",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/source\/assets\/img\/favicon.ico": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/assets\/img\/favicon.ico",
+		"oF": 0
+		},
+	"\/source\/assets\/js\/head.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/build\/assets\/js\/head.min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/source\/assets\/js\/script.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/build\/assets\/js\/script.min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/source\/assets\/less\/style.less": {
+		"aP": 0,
+		"bl": 0,
+		"dJ": 0,
+		"ft": 1,
+		"ie": 1,
+		"iI": 0,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/build\/assets\/css\/style.css",
+		"oF": 0,
+		"oS": 0,
+		"rU": 0,
+		"sI": 0,
+		"sM": 0,
+		"sU": 0
+		},
+	"\/source\/assets\/less\/theme.less": {
+		"aP": 0,
+		"bl": 0,
+		"dJ": 0,
+		"ft": 1,
+		"ie": 1,
+		"iI": 0,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/build\/assets\/css\/theme.css",
+		"oF": 0,
+		"oS": 0,
+		"rU": 0,
+		"sI": 0,
+		"sM": 0,
+		"sU": 0
+		},
+	"\/source\/assets\/less\/variables.less": {
+		"aP": 0,
+		"bl": 0,
+		"dJ": 0,
+		"ft": 1,
+		"ie": 1,
+		"iI": 0,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/build\/assets\/css\/variables.css",
+		"oF": 0,
+		"oS": 0,
+		"rU": 1,
+		"sI": 0,
+		"sM": 0,
+		"sU": 0
+		},
+	"\/source\/bower.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/build\/bower-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/source\/index.kit": {
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/build\/index.html",
+		"oF": 0
+		},
+	"\/source\/README.kit": {
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/build\/README.html",
+		"oF": 0
+		},
+	"\/source\/README.md": {
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
@@ -2995,7 +2973,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/README.html",
+		"oAP": "\/build\/README.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -3004,16 +2982,16 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/robots.txt": {
+	"\/source\/robots.txt": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/robots.txt",
+		"oAP": "\/build\/robots.txt",
 		"oF": 0
 		},
-	"\/sitemap.xml": {
+	"\/source\/sitemap.xml": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/sitemap.xml",
+		"oAP": "\/build\/sitemap.xml",
 		"oF": 0
 		}
 	},
@@ -3025,7 +3003,8 @@
 	"creationDate": 500370610,
 	"displayValue": "HTML5-Bootstrap-Boilerplate-for-CodeKit",
 	"displayValueWasSetByUser": 0,
-	"iconImageName": "meme-wonka"
+	"iconImageName": "meme-wonka",
+	"lastBuiltDate": 500394006
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
@@ -3280,7 +3259,7 @@
 	"bowerSaveDevDependencies": 0,
 	"bowerUseExactVersion": 0,
 	"browserRefreshDelay": 0,
-	"buildFolderActive": 0,
+	"buildFolderActive": 1,
 	"buildFolderName": "build",
 	"cleanBuild": 1,
 	"coffeeLintFlags2": {
@@ -4918,7 +4897,7 @@
 		},
 	"languageDefaultsUserDefined": [
 		],
-	"previewPathAddition": "\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit",
+	"previewPathAddition": "\/Tests\/HTML5-Bootstrap-Boilerplate-for-CodeKit\/build",
 	"skippedFoldersString": "log, _logs, logs, _cache, cache, \/storage\/framework\/sessions, node_modules",
 	"sourceFolderName": "source",
 	"uglifyDefinesString": "",
