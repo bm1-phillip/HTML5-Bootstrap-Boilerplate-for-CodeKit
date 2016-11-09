@@ -1,3 +1,2 @@
 User-agent: *
 Disallow:
-Sitemap: http://dev.agentur-leben.de/HTML5-Bootstrap-Boilerplate-for-CodeKit/sitemap.xml
