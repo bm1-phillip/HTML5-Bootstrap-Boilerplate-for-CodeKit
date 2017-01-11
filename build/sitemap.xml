@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>http://dev.agentur-leben.de/HTML5-Bootstrap-Boilerplate-for-CodeKit/</loc>
+    <priority>1</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>http://dev.agentur-leben.de/HTML5-Bootstrap-Boilerplate-for-CodeKit/404.html</loc>
+    <priority>0.1</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+</urlset>
