@@ -1,1 +1,1 @@
-// @codekit-prepend "modernizr.min.js";
+// @codekit-prepend "../bower/components-modernizr/modernizr.js";
